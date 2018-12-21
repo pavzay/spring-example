@@ -1,2 +1,4 @@
 rootProject.name = 'spring-example'
 include 'spring-mvc-example'
+include 'spring-oauth2-server-example'
+
